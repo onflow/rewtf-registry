@@ -1,0 +1,9 @@
+smol = true
+logLevel = "warn"
+
+[loader]
+".cdc" = "text"
+
+[install]
+frozenLockfile = false
+saveTextLockfile = false
