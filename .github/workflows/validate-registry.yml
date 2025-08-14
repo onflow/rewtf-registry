@@ -28,6 +28,16 @@ jobs:
         id: validation
         run: |
           bun run validate-registry
+          # Check if validation failed and exit with error code
+          if [ -f "tmp/validation-result.json" ]; then
+            if ! jq -e '.isValid == true' "tmp/validation-result.json" > /dev/null 2>&1; then
+              echo "❌ Registry validation failed"
+              exit 1
+            fi
+          else
+            echo "❌ Validation result file not found"
+            exit 1
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
