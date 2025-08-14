@@ -20,7 +20,7 @@ Your team's projects must meet **at least one** of the following criteria:
 
 ### 📝 Registration Template
 
-Copy the following structure and add it to the end of `registry.yaml`:
+Copy the following structure, modify it to your needs, and add it to the end of `registry.yaml`:
 
 ```yaml
 -
@@ -60,8 +60,8 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 | Contribution Type | Points | Notes |
 |------------------|---------|-------|
-| **PR to onflow/* repos (merged)** | 50-200 | Weighted by impact: 50 (typos/docs) → 200 (core protocol fixes) |
-| **Commit to registered Flow-related repo** | 5~50 | Each daily active user can earn 5 points per day, with a maximum of 50 points accumulable per Team daily.  |
+| **PR to `onflow/*` repos (merged)** | 50-200 | Weighted by impact: 50 (typos/docs) → 200 (core protocol fixes) |
+| **Commit to registered repos** | 5~50 | Each daily active user can earn 5 points per day, with a maximum of 50 points accumulable per Team daily.  |
 
 ### How Points Are Calculated
 
