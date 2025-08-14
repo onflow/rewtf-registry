@@ -1,39 +1,70 @@
-# TypeScript Scripts
+# Scripts
 
-This directory contains TypeScript scripts.
+This directory contains utility scripts for the rewtf-registry project.
 
-## get-token.ts
+## Scripts
 
-A TypeScript script that generates GitHub App JWT tokens and installation access tokens.
+### get-access-token.ts
 
-### Features
+Generates a GitHub access token for authentication purposes.
 
-- Generates JWT tokens for GitHub App authentication
-- Retrieves installation access tokens
-- Supports GitHub Actions output
-- Includes error handling and type safety
-- Uses official Octokit libraries for better reliability
-
-### Usage
+**Usage:**
 
 ```bash
-# Set environment variables
-export APP_ID="your_app_id"
-export APP_PRIVATE_KEY="your_private_key"
-export INSTALLATION_ID="your_installation_id"
-
-# Run with bun (recommended)
 bun run get-token
 ```
 
-### Environment Variables
+**Environment Variables Required:**
 
-- `APP_ID`: Your GitHub App ID
-- `APP_PRIVATE_KEY`: Your GitHub App private key (PEM format)
-- `INSTALLATION_ID`: Your GitHub App installation ID
-- `GITHUB_OUTPUT`: GitHub Actions output file path (optional)
+- `APP_ID`: GitHub App ID
+- `APP_PRIVATE_KEY`: GitHub App private key
+- `INSTALLATION_ID`: GitHub App installation ID
 
-### Dependencies
+### validate-registry.ts
 
-- `@octokit/rest`: GitHub REST API client
-- `@octokit/auth-app`: GitHub App authentication utilities
+Validates registry.yaml entries to ensure they meet the required format and contain valid data.
+
+**Usage:**
+
+```bash
+bun run validate-registry
+```
+
+**Environment Variables Required:**
+
+- `GITHUB_TOKEN`: GitHub token for API access
+
+**What it validates:**
+
+- Required fields: `name`, `github`, `repos`, `wallets`
+- GitHub handles: Checks if usernames exist and are accessible
+- Repository URLs: Verifies GitHub repositories are accessible
+- Wallet addresses:
+  - EVM: Must start with `0x` and be 42 characters long (0x + 40 hex chars)
+  - Flow: Must start with `0x` and be 18 characters long (0x + 16 hex chars)
+
+**Output:**
+Creates a `validation-result.json` file with validation results that can be used by GitHub Actions.
+
+## GitHub Action Integration
+
+The `validate-registry.ts` script is designed to work with the GitHub Action workflow in `.github/workflows/validate-registry.yml`. This workflow:
+
+1. Triggers on PR changes to `registry.yaml`
+2. Runs the validation script
+3. Posts results as comments on the PR
+4. Uses friendly emojis and clear messaging
+
+## Development
+
+To run these scripts locally:
+
+1. Install dependencies: `bun install`
+2. Set required environment variables
+3. Run the desired script: `bun run <script-name>`
+
+## Dependencies
+
+- `@octokit/rest`: GitHub API client
+- `js-yaml`: YAML parsing
+- `@octokit/auth-app`: GitHub App authentication

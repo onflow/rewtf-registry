@@ -2,7 +2,8 @@
   "name": "rewtf-registry",
   "version": "0.1.0",
   "scripts": {
-    "get-token": "bun run scripts/ts/get-access-token.ts"
+    "get-token": "bun run scripts/bin/get-access-token.ts",
+    "validate-registry": "bun run scripts/bin/validate-registry.ts"
   },
   "engines": {
     "node": ">=20.0.0",
@@ -12,6 +13,7 @@
     "@biomejs/biome": "^2.1.4",
     "@types/bun": "latest",
     "@types/cli-progress": "^3.11.6",
+    "@types/js-yaml": "^4.0.9",
     "bun-types": "^1.2.10",
     "typescript": "^5.9.2"
   },
@@ -19,6 +21,7 @@
     "@octokit/auth-app": "^8.0.2",
     "@octokit/rest": "^22.0.0",
     "cli-progress": "^3.12.0",
+    "js-yaml": "^4.1.0",
     "octokit": "^5.0.3"
   }
 }

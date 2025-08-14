@@ -1,0 +1,110 @@
+name: Validate Registry PR
+
+on:
+  pull_request:
+    paths:
+      - "registry.yaml"
+    types: [opened, synchronize, reopened]
+
+jobs:
+  validate-registry:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Run registry validation
+        id: validation
+        run: |
+          bun run validate-registry
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
+
+      - name: Comment PR
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const validationOutput = fs.readFileSync('tmp/validation-result.json', 'utf8');
+            const result = JSON.parse(validationOutput);
+
+            let comment = '';
+
+            if (result.isValid) {
+              comment = `## ✅ Registry Validation Passed! 🎉
+              
+              Great job! Your registry entry has been validated successfully.
+              
+              **Validation Results:**
+              - ✅ All required fields are present
+              - ✅ GitHub handles are valid
+              - ✅ Repository URLs are accessible
+              - ✅ Wallet addresses are properly formatted
+              
+              Your PR is ready for review! 🚀`;
+            } else {
+              comment = `## ❌ Registry Validation Failed 😞
+              
+              Please fix the following issues before your PR can be merged:
+              
+              **Validation Errors:**
+              ${result.errors.map(error => `- ❌ ${error}`).join('\n')}
+              
+              **Required Fields:**
+              - \`name\`: Team/Project name
+              - \`github\`: Array of valid GitHub usernames
+              - \`repos\`: Array of accessible repository URLs
+              - \`wallets\`: Object with \`evm\` (0x + 40 hex chars) and \`flow\` (0x + 16 hex chars) addresses
+              
+              Please update your registry entry and push the changes. 🔧`;
+            }
+
+            // Check if we already commented on this PR
+            const existingComments = await github.rest.issues.listComments({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            });
+
+            // Find our bot comment (look for validation comments)
+            const botComment = existingComments.data.find(comment => 
+              comment.body && (
+                comment.body.includes('## ✅ Registry Validation Passed') ||
+                comment.body.includes('## ❌ Registry Validation Failed')
+              )
+            );
+
+            if (botComment) {
+              // Update existing comment
+              await github.rest.issues.updateComment({
+                comment_id: botComment.id,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: comment
+              });
+              console.log('Updated existing validation comment');
+            } else {
+              // Create new comment
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: comment
+              });
+              console.log('Created new validation comment');
+            }
