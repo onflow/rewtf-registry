@@ -24,6 +24,15 @@ jobs:
       - name: Install dependencies
         run: bun install
 
+      - name: Generate JWT and get access token
+        id: get-access-token
+        env:
+          APP_ID: ${{ vars.APP_ID }}
+          APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
+          INSTALLATION_ID: ${{ vars.INSTALLATION_ID }}
+        run: |
+          bun run scripts/bin/get-access-token.ts
+
       - name: Run registry validation
         id: validation
         run: |
