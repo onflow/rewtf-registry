@@ -1,4 +1,4 @@
-# ReWTF (Rewarding with the Flow) Registry
+# ReWTF Registry
 
 This repository is the registry of ReWTF Program, an always-on contribution program that rewards developers for their contributions to the Flow ecosystem.
 
