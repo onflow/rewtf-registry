@@ -21,3 +21,14 @@
     flow: 0x0000000000000001
 # ------ End - Template -----
 # >>>>>>> Developers' registry <<<<<<<<
+-
+  name: Fixes Lab
+  github:
+    - btspoony
+  repos:
+    - https://github.com/fixes-world/token-list
+    - https://github.com/fixes-world/fixes
+  wallets:
+    # Your wallets to accept Flow Rewards
+    evm: 0x000000000000000000000002E44fBFBd00395DE5
+    flow: 0xa2de93114bae3e73
