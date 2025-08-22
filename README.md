@@ -35,8 +35,8 @@ Copy the following structure, modify it to your needs, and add it to the end of 
     - https://github.com/your/repo_2
   wallets:
     # Your team's wallets to accept Flow Rewards
-    evm: 0x0000000000000000000000000000000000000000
-    flow: 0x0000000000000001
+    evm: "0x0000000000000000000000000000000000000000"
+    flow: "0x0000000000000001"
 ```
 
 ### ✅ Validation Requirements

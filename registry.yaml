@@ -17,8 +17,8 @@
     - https://github.com/your/repo_2
   wallets:
     # Your wallets to accept Flow Rewards
-    evm: 0x0000000000000000000000000000000000000000
-    flow: 0x0000000000000001
+    evm: "0x0000000000000000000000000000000000000000"
+    flow: "0x0000000000000001"
 # ------ End - Template -----
 # >>>>>>> Developers' registry <<<<<<<<
 -
@@ -30,5 +30,5 @@
     - https://github.com/fixes-world/fixes
   wallets:
     # Your wallets to accept Flow Rewards
-    evm: 0x000000000000000000000002E44fBFBd00395DE5
-    flow: 0xa2de93114bae3e73
+    evm: "0x000000000000000000000002E44fBFBd00395DE5"
+    flow: "0xa2de93114bae3e73"
