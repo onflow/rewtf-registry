@@ -32,3 +32,13 @@
     # Your wallets to accept Flow Rewards
     evm: "0x000000000000000000000002E44fBFBd00395DE5"
     flow: "0xa2de93114bae3e73"
+
+  -
+  name: Deadgrid
+  github:
+    - aliserag
+  repos:
+    - https://github.com/Aliserag/deadgrid
+  wallets:
+    # Your wallets to accept Flow Rewards
+    evm: "0xd10Af01D4f617974726eeeC717FBC642df69CB58"
