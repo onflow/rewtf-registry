@@ -15,10 +15,11 @@
     #    go sdk(url in go.mod), or with Flow public EVM endpoints set(in Solidity configure files).
     - https://github.com/your/repo_1
     - https://github.com/your/repo_2
-  wallets:
-    # Your wallets to accept Flow Rewards
+  wallets: # Optional, Your wallets to accept Flow Rewards
     evm: "0x0000000000000000000000000000000000000000"
     flow: "0x0000000000000001"
+  x: # Optional, Your team's social handles
+    - your_x_handle
 # ------ End - Template -----
 # >>>>>>> Developers' registry <<<<<<<<
 -
@@ -29,10 +30,10 @@
     - https://github.com/fixes-world/token-list
     - https://github.com/fixes-world/fixes
   wallets:
-    # Your wallets to accept Flow Rewards
     evm: "0x000000000000000000000002E44fBFBd00395DE5"
     flow: "0xa2de93114bae3e73"
-
+  x:
+    - btspoony
 -
   name: Deadgrid
   github:
