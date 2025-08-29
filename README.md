@@ -1,4 +1,7 @@
 # ReWTF
+<p align="center">
+  <img width="500" height="500" alt="ChatGPT Image Aug 28, 2025, 07_28_59 PM" src="https://github.com/user-attachments/assets/b8cd1c47-799d-4e6c-aebe-a18d7ff7872a" />
+</p>
 
 Great projects are 1% idea and 99% execution, the hardest part is usually just getting started and sticking to it. ReWTF unlocks both points to redeem prizes in the [Rewards Store](https://store.flow.com/minting/contracts/a33764e4-e993-4e64-aef3-6ea823afa991) and 10k+ $FLOW over the month of September for builders. How does it work?
 - **Register** your Project - can be brand new or existing projects you are already working on. Any type of project is eligible (DeFi, gaming, agents etc.)
