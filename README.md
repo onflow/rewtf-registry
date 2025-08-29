@@ -1,6 +1,15 @@
-# ReWTF Registry
+# ReWTF
 
-This repository is the registry of ReWTF Program, an always-on contribution program that rewards developers for their contributions to the Flow ecosystem.
+Great projects are 1% idea and 99% execution, the hardest part is usually just getting started and sticking to it. ReWTF unlocks both points to redeem prizes in the [Rewards Store](https://store.flow.com/minting/contracts/a33764e4-e993-4e64-aef3-6ea823afa991) and 10k+ $FLOW over the month of September for builders. How does it work?
+- **Register** your Project - can be brand new or existing projects you are already working on. Any type of project is eligible (DeFi, gaming, agents etc.)
+- **Build** - commit code as reguarly as possible, the more you build the more likely you are to get rewards
+- **Earn** - Get access to 10k+ in $FLOW as well as points to redeem for Macbook Pros, Airpods, digital collectables and more. There are even bonus rewards for the top projects building in public!
+
+It's time to go WTF (with the Flow) again!
+
+## Leaderboard
+
+To see how you rank relative to others and your total points, check out the [leaderboard](https://app.databox.com/datawall/fc5f1f7de13471eac8bd5eb2e3d90a752817ac68a86fd6). 
 
 ## 🚀 How to Register Your Team
 
@@ -39,6 +48,8 @@ Copy the following structure, modify it to your needs, and add it to the end of 
     flow: "0x0000000000000001"
 ```
 
+Note, for rewards store points use an EVM address like [Metamask](https://developers.flow.com/build/evm/using) or [Flow Wallet](https://wallet.flow.com/)'s EVM accounts.
+
 ### ✅ Validation Requirements
 
 The registration system will automatically validate:
@@ -56,26 +67,18 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 ## 🏆 Scoring System
 
-### Contribution Points
-
-| Contribution Type | Points | Notes |
-|------------------|---------|-------|
-| **PR to `onflow/*` repos (merged)** | 50-200 | Weighted by impact: 50 (typos/docs) → 200 (core protocol fixes) |
-| **Commit to registered repos** | 5~50 | Each daily active user can earn 5 points per day, with a maximum of 50 points accumulable per Team daily.  |
-
 ### How Points Are Calculated
 
-- **PR Impact Assessment**: Core protocol fixes and significant contributions receive higher points
-- **Repository Activity**: More popular and active repositories may receive bonus points, but the points are capped at 50 points per day.
+- Points are generated through many different sources. The higher your points, the more lilely you are to win prizes and funds. To maximize your score make sure you create to push meaningful commits regularly. 
 
 ## 📚 Additional Resources
 
 - [Flow Documentation](https://developers.flow.com/)
 - [Cadence Language Reference](https://cadence-lang.org/)
 
-## 🤝 Contributing
+## 🤝 Building in Public
 
-If you have questions about the registration process or scoring system, please open an issue in this repository.
+The top building in public posts will earn more points as well as bonus $FLOW.
 
 ---
 
