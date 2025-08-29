@@ -40,6 +40,6 @@
   repos:
     - https://github.com/Aliserag/deadgrid
   wallets:
-    # Your wallets to accept Flow Rewards
+    # Your wallets to accept Flow Rewards.
     evm: "0xd10Af01D4f617974726eeeC717FBC642df69CB58"
     
