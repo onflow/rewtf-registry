@@ -72,7 +72,7 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 ### How Points Are Calculated
 
-- Points are generated through many different sources. The higher your points, the more lilely you are to win prizes and funds. To maximize your score make sure you create to push meaningful commits regularly. 
+- Points are generated through many different sources. The higher your points, the more lilely you are to win prizes and funds. To maximize your score make sure you write and push meaningful commits regularly. 
 
 ## 📚 Additional Resources
 
@@ -81,7 +81,7 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 ## 🤝 Building in Public
 
-The top building in public posts will earn more points as well as bonus $FLOW.
+The top building in public posts will earn more points as well as bonus $FLOW. In your building in public posts, include #ReWTF and @flow_blockchain as well as @aliserag0.
 
 ---
 
