@@ -83,6 +83,8 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 The top building in public posts will earn more points as well as bonus $FLOW. In your building in public posts, include #ReWTF and @flow_blockchain as well as @aliserag0.
 
+## FAQ
+- Can I use existing projects or do they need to be brand new? Both new and existing projects are eligible!
 ---
 
 **Note**: All contributions to onflow repositories and registered Flow-related projects are automatically tracked. Make sure your GitHub username is correctly listed in your team's registration to receive proper credit for your contributions.
