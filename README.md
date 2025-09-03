@@ -5,7 +5,7 @@
 
 Great projects are 1% idea and 99% execution, the hardest part is usually just getting started and sticking to it. ReWTF unlocks both points to redeem prizes in the [Rewards Store](https://store.flow.com/minting/contracts/a33764e4-e993-4e64-aef3-6ea823afa991) and 10k+ $FLOW over the month of September for builders. How does it work?
 - **Register** your Project - can be brand new or existing projects you are already working on. Any type of project is eligible (DeFi, gaming, agents etc.)
-- **Build** - commit code as reguarly as possible, the more you build the more likely you are to get rewards
+- **Build** - commit code as regularly as possible, the more you build the more likely you are to get rewards
 - **Earn** - Get access to 10k+ in $FLOW as well as points to redeem for Macbook Pros, Airpods, digital collectables and more. There are even bonus rewards for the top projects building in public!
 
 It's time to go WTF (with the Flow) again!
@@ -72,7 +72,8 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 ### How Points Are Calculated
 
-- Points are generated through many different sources. The higher your points, the more lilely you are to win prizes and funds. To maximize your score make sure you write and push meaningful commits regularly. 
+- Points are generated through many different sources. The higher your points, the more likely you are to win prizes and funds. To maximize your score make sure you create to push meaningful commits regularly. 
+
 
 ## 📚 Additional Resources
 
