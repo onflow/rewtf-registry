@@ -73,7 +73,9 @@ jobs:
               - ✅ All required fields are present
               - ✅ GitHub handles are valid
               - ✅ Repository URLs are accessible
-              - ✅ Wallet addresses are properly formatted
+              - ✅ Repositories meet Flow ecosystem requirements
+              - ✅ Wallet addresses are properly formatted (if provided)
+              - ✅ X handles are valid (if provided)
               
               Your PR is ready for review! 🚀`;
             } else {
@@ -87,8 +89,15 @@ jobs:
               **Required Fields:**
               - \`name\`: Team/Project name
               - \`github\`: Array of valid GitHub usernames
-              - \`repos\`: Array of accessible repository URLs
+              - \`repos\`: Array of accessible repository URLs that meet Flow ecosystem requirements
+              
+              **Flow Ecosystem Requirements (repos must meet ONE of these):**
+              1. **"Built on Flow"**: Clearly state in README.md that it is built on Flow
+              2. **Flow Components**: Include \`@onflow/fcl\`, \`@onflow/kit\`, Flow Go SDK, or Flow EVM endpoints
+              
+              **Optional Fields:**
               - \`wallets\`: Object with \`evm\` (0x + 40 hex chars) and \`flow\` (0x + 16 hex chars) addresses
+              - \`x\`: Array of X (Twitter) handles
               
               Please update your registry entry and push the changes. 🔧`;
             }

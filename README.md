@@ -74,6 +74,7 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 - Points are generated through many different sources. The higher your points, the more likely you are to win prizes and funds. To maximize your score make sure you create to push meaningful commits regularly. 
 
+
 ## 📚 Additional Resources
 
 - [Flow Documentation](https://developers.flow.com/)
@@ -81,8 +82,10 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 ## 🤝 Building in Public
 
-The top building in public posts will earn more points as well as bonus $FLOW.
+The top building in public posts will earn more points as well as bonus $FLOW. In your building in public posts, include #ReWTF and @flow_blockchain as well as @aliserag0.
 
+## FAQ
+- Can I use existing projects or do they need to be brand new? Both new and existing projects are eligible!
 ---
 
 **Note**: All contributions to onflow repositories and registered Flow-related projects are automatically tracked. Make sure your GitHub username is correctly listed in your team's registration to receive proper credit for your contributions.
