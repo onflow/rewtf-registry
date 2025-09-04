@@ -54,6 +54,17 @@
     evm: "0x9402F9f20b4a27b55B1cC6cf015D98f764814fb2"
     flow: "0x00000000000000000000000228B74E66CBD624Fc"
 -
+  name: OathLock
+  github:
+    - rtree
+    - hanabiradake
+    - metaproxyco
+  repos:
+    - https://github.com/rtree/OathLock
+  wallets:
+    evm: "0x000000000000000000000002119816AD33a31444"
+    flow: "0xabefd453b52dd787"
+-
   name: FlowWager
   github:
     # Your team members' GitHub usernames for tracking PR status to onflow
@@ -76,4 +87,3 @@
   wallets:
     evm: "0xbD8C79740Bf625F5054E86a2CE4e73879382f923"
     flow: "0xb37ebf49ac9cc10c"
-
