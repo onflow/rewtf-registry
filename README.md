@@ -26,7 +26,7 @@ Your team's projects must meet **at least one** of the following criteria:
 
 2. **With Flow Components** - Your projects use:
    - Cadence Language
-   - `@onflow/fcl` or `@onflow/kit` (in package.json)
+   - `@onflow/fcl` or `@onflow/react-sdk` (in package.json)
    - Go SDK (URL in go.mod)
    - Flow public EVM endpoints (in Solidity configuration files)
 
