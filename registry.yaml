@@ -87,3 +87,13 @@
   wallets:
     evm: "0xbD8C79740Bf625F5054E86a2CE4e73879382f923"
     flow: "0xb37ebf49ac9cc10c"
+- 
+  name: Nocena
+  github:
+    - louskac
+    - Nocena
+  repos:
+    - https://github.com/Nocena/app.nocena
+  wallets:
+    evm: "0x000000000000000000000002717316C4f6837628"
+    flow: "0x78821ad8ca4ed8dd"
