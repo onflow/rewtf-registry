@@ -44,7 +44,6 @@
     # Your wallets to accept Flow Rewards
     evm: "0xd10Af01D4f617974726eeeC717FBC642df69CB58"
     flow: "0x86c0ce142ca23b42"
-    
 -
   name: Immutable5 - Next Generation Platform
   github:
@@ -54,8 +53,7 @@
   wallets:
     evm: "0x9402F9f20b4a27b55B1cC6cf015D98f764814fb2"
     flow: "0x00000000000000000000000228B74E66CBD624Fc"
-
-    -
+-
   name: FlowWager
   github:
     # Your team members' GitHub usernames for tracking PR status to onflow
@@ -68,3 +66,14 @@
     # Your team's wallets to accept Flow Rewards
     evm: "0x00000000000000000000000212aB5157de5cB288"
     flow: "0xb7745acb2b2af47e"
+- 
+  name: Rivals - AR PvP shooter
+  github:
+    - jiyuu-jin
+    - chris13524
+  repos:
+    - https://github.com/jiyuu-jin/Rivals
+  wallets:
+    evm: "0xbD8C79740Bf625F5054E86a2CE4e73879382f923"
+    flow: "0xb37ebf49ac9cc10c"
+
