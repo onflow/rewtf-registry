@@ -97,3 +97,13 @@
   wallets:
     evm: "0x000000000000000000000002717316C4f6837628"
     flow: "0x78821ad8ca4ed8dd"
+-
+  name: Letter Link Tiles
+  github:
+    - ysongh
+  repos:
+    - https://github.com/ysongh/LetterLinkTiles
+  wallets:
+    evm: "0xC7677c5D01b0D78dB5bFee1071e324dA0F9bC944"
+  x:
+    - ysongweb3
