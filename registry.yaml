@@ -64,3 +64,26 @@
   wallets:
     evm: "0x000000000000000000000002119816AD33a31444"
     flow: "0xabefd453b52dd787"
+-
+  name: FlowWager
+  github:
+    # Your team members' GitHub usernames for tracking PR status to onflow
+    - AltcoinDaddy
+    - borngreat-ikwutah
+  repos:
+    # Your team's repositories - all commits to these repos will be tracked
+    - https://github.com/AltcoinDaddy/flow-wager
+  wallets:
+    # Your team's wallets to accept Flow Rewards
+    evm: "0x00000000000000000000000212aB5157de5cB288"
+    flow: "0xb7745acb2b2af47e"
+- 
+  name: Rivals - AR PvP shooter
+  github:
+    - jiyuu-jin
+    - chris13524
+  repos:
+    - https://github.com/jiyuu-jin/Rivals
+  wallets:
+    evm: "0xbD8C79740Bf625F5054E86a2CE4e73879382f923"
+    flow: "0xb37ebf49ac9cc10c"
