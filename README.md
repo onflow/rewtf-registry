@@ -59,7 +59,7 @@ The registration system will automatically validate:
 
 - **Team Name**: Required, Must be a non-empty string
 - **GitHub Handles**: Required, Must be valid, accessible GitHub usernames
-- **Repository URLs**: Optional, Must be valid, accessible GitHub repositories
+- **Repository URLs**: Required, Must be valid, accessible GitHub repositories
 - **Wallet Addresses**:
   - EVM: Required, Must start with `0x` and be 42 characters long (0x + 40 hex chars)
   - Flow: Required, Must start with `0x` and be 18 characters long (0x + 16 hex chars)
