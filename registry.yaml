@@ -37,7 +37,7 @@
 -
   name: Deadgrid
   github:
-    - aliserag
+    - Aliserag
   repos:
     - https://github.com/Aliserag/deadgrid
   wallets:
@@ -45,7 +45,7 @@
     evm: "0xd10Af01D4f617974726eeeC717FBC642df69CB58"
     flow: "0x86c0ce142ca23b42"
 -
-  name: Immutable5 - Next Generation Platform
+  name: ImmutableType
   github:
     - ImmutableType
   repos:
@@ -78,7 +78,7 @@
     evm: "0x00000000000000000000000212aB5157de5cB288"
     flow: "0xb7745acb2b2af47e"
 - 
-  name: Rivals - AR PvP shooter
+  name: Rivals
   github:
     - jiyuu-jin
     - chris13524
