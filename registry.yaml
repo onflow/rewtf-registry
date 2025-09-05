@@ -119,3 +119,12 @@
   x:
     - dappcoder_
 -
+  name: aiSports
+  github:
+    - ccarnicle
+  repos:
+    - https://github.com/ccarnicle/cascade_scaffold
+  wallets:
+    evm: "0x000000000000000000000002f198406d0594C15B"
+    flow: "0x9db94c9564243ba7"
+-
