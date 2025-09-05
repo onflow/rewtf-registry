@@ -107,3 +107,15 @@
     evm: "0xC7677c5D01b0D78dB5bFee1071e324dA0F9bC944"
   x:
     - ysongweb3
+-
+  name: OCB
+  github:
+    - DappCoderr
+  repos:
+    - https://github.com/DappCoderr/OCB
+  wallets:
+    evm: "0x000000000000000000000002d7e48aba1f020b52"
+    flow: "0xe35f688520e4a2c3"
+  x:
+    - dappcoder_
+-
