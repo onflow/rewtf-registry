@@ -119,3 +119,14 @@
   x:
     - dappcoder_
 -
+  name: aiSports
+  github:
+    - ccarnicle
+  repos:
+    # Your team's repositories - all commits to these repos will be tracked
+    - https://github.com/ccarnicle/cascade_scaffold
+  wallets:
+    # Your team's wallets to accept Flow Rewards
+    evm: "0x000000000000000000000002f198406d0594C15B"
+    flow: "0x9db94c9564243ba7"
+-
