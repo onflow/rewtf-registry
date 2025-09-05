@@ -119,3 +119,17 @@
   x:
     - dappcoder_
 -
+  name: TroveFi
+  github:
+    - TroveFi
+    - PhatDot1
+  repos:
+    - https://github.com/TroveFi/playground
+    - https://github.com/TroveFi/dapp
+    - https://github.com/TroveFi/backend
+  wallets:
+    evm: "0xbaD4374FeB7ec757027CF2186B6eb6f32412f723"
+  x:
+    - ppw0_0x
+    - TroveFi
+-
