@@ -128,3 +128,12 @@
     evm: "0x000000000000000000000002f198406d0594C15B"
     flow: "0x9db94c9564243ba7"
 -
+  name: tunnel
+  github:
+    - AqilJaafree
+  repos:
+    - https://github.com/AqilJaafree/Tunnel
+  wallets:
+    evm: "0x0000000000000000000000020d67a3C4174e27A3"
+    flow: "0xaec929f96ea89ae4"
+-
