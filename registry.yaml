@@ -128,6 +128,15 @@
     evm: "0x000000000000000000000002f198406d0594C15B"
     flow: "0x9db94c9564243ba7"
 -
+  name: TroveFi
+  github:
+    - PhatDot1
+  repos:
+    - https://github.com/TroveFi/all-playground
+  wallets:
+    evm: "0xbaD4374FeB7ec757027CF2186B6eb6f32412f723"
+    flow: "0x79f5b5b0f95a160b"
+-
   name: tunnel
   github:
     - AqilJaafree
