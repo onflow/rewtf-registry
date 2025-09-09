@@ -145,7 +145,7 @@
   wallets:
     evm: "0x0000000000000000000000020d67a3C4174e27A3"
     flow: "0xaec929f96ea89ae4"
---
+-
   name: Magix
   github:
     - borngreat-ikwutah
@@ -156,3 +156,4 @@
     flow: "0xc0ad9a569b0fc413"
   x: # Optional, Your team's social handles
     - borngreatik23
+-
