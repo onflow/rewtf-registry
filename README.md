@@ -86,6 +86,7 @@ The top building in public posts will earn more points as well as bonus $FLOW. I
 
 ## FAQ
 - Can I use existing projects or do they need to be brand new? Both new and existing projects are eligible!
+- How often does the leaderboard update? Currently the leaderboard updates once every 24 hours on a daily script, if you're not seeing your points check back tomorrow.
 ---
 
 **Note**: All contributions to onflow repositories and registered Flow-related projects are automatically tracked. Make sure your GitHub username is correctly listed in your team's registration to receive proper credit for your contributions.

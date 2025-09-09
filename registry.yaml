@@ -159,3 +159,24 @@
     flow: "0xb8378d0de0932d58"
   x:
     - curiostorage
+-
+  name: Magix
+  github:
+    - borngreat-ikwutah
+  repos:
+    - https://github.com/borngreat-ikwutah/magix
+  wallets: # Optional, Your wallets to accept Flow Rewards
+    evm: "0x9597d6346946D55C5D4004269c79945eB8BAC4b7"
+    flow: "0xc0ad9a569b0fc413"
+  x: # Optional, Your team's social handles
+    - borngreatik23
+-
+  name: Token Tuner
+  github:
+    - thisispalash
+  repos:
+    - https://github.com/thisispalash/tt-monorepo
+  wallets:
+    evm: "0xD8aE2aCF05660db350A56d5721f46a73ED64f657"
+  x:
+    - theprimefibber
