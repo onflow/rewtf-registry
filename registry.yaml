@@ -180,3 +180,15 @@
     evm: "0xD8aE2aCF05660db350A56d5721f46a73ED64f657"
   x:
     - theprimefibber
+-
+
+  name: Flunks
+  github:
+    - Skeremy
+  repos:
+    - https://github.com/flunkscommunity/flunks-site
+  wallets:
+    evm: "0x0000000000000000000000024DfF20BeDFD6C48B"
+    flow: "0xe327216d843357f1"
+  x: 
+    - @flunks_nft
