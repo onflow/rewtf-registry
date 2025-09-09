@@ -157,3 +157,12 @@
   x: # Optional, Your team's social handles
     - borngreatik23
 -
+  name: Token Tuner
+  github:
+    - thisispalash
+  repos:
+    - https://github.com/thisispalash/tt-monorepo
+  wallets:
+    evm: "0xD8aE2aCF05660db350A56d5721f46a73ED64f657"
+  x:
+    - theprimefibber
