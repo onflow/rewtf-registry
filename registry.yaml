@@ -146,3 +146,12 @@
     evm: "0x0000000000000000000000020d67a3C4174e27A3"
     flow: "0xaec929f96ea89ae4"
 -
+  name: Token Tuner
+  github:
+    - thisispalash
+  repos:
+    - https://github.com/thisispalash/tt-monorepo
+  wallets:
+    evm: "0xD8aE2aCF05660db350A56d5721f46a73ED64f657"
+  x:
+    - theprimefibber
