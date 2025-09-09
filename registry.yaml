@@ -146,6 +146,20 @@
     evm: "0x0000000000000000000000020d67a3C4174e27A3"
     flow: "0xaec929f96ea89ae4"
 -
+  name: Curio Storage
+  github:
+    - LexLuthr
+    - magik6k
+    - snadrus
+    - Reiers
+  repos:
+    - https://github.com/filecoin-project/curio
+  wallets:
+    evm: "0x876EE609A0556559F28a8159972cE6222A2e98aE"
+    flow: "0xb8378d0de0932d58"
+  x:
+    - curiostorage
+-
   name: Magix
   github:
     - borngreat-ikwutah
