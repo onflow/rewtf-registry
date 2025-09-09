@@ -146,6 +146,19 @@
     evm: "0x0000000000000000000000020d67a3C4174e27A3"
     flow: "0xaec929f96ea89ae4"
 -
+
+-
+  name: JetrPay
+  github:
+    - ayomisco
+  repos:
+    - https://github.com/Ayomisco/jetrpay
+  wallets:
+    evm: "0x00000000000000000000000277E9f18E5912f4cA"
+    flow: "0xdc7abe65491f10be"
+  x:
+    - ayomisco_s 
+-
   name: Curio Storage
   github:
     - LexLuthr
