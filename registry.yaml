@@ -156,5 +156,40 @@
   wallets:
     evm: "0x00000000000000000000000277E9f18E5912f4cA"
     flow: "0xdc7abe65491f10be"
+  x:
+    - ayomisco_s 
 -
-
+  name: Curio Storage
+  github:
+    - LexLuthr
+    - magik6k
+    - snadrus
+    - Reiers
+  repos:
+    - https://github.com/filecoin-project/curio
+  wallets:
+    evm: "0x876EE609A0556559F28a8159972cE6222A2e98aE"
+    flow: "0xb8378d0de0932d58"
+  x:
+    - curiostorage
+-
+  name: Magix
+  github:
+    - borngreat-ikwutah
+  repos:
+    - https://github.com/borngreat-ikwutah/magix
+  wallets: # Optional, Your wallets to accept Flow Rewards
+    evm: "0x9597d6346946D55C5D4004269c79945eB8BAC4b7"
+    flow: "0xc0ad9a569b0fc413"
+  x: # Optional, Your team's social handles
+    - borngreatik23
+-
+  name: Token Tuner
+  github:
+    - thisispalash
+  repos:
+    - https://github.com/thisispalash/tt-monorepo
+  wallets:
+    evm: "0xD8aE2aCF05660db350A56d5721f46a73ED64f657"
+  x:
+    - theprimefibber
