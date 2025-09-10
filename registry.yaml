@@ -203,3 +203,15 @@
     flow: "0xe327216d843357f1"
   x: 
     - @flunks_nft
+
+-
+  name: Angus
+  github:
+    - agyn-ub
+  repos:
+    - https://github.com/agyn-ub/ai_voice_calendar
+  wallets:
+    evm: "0x7E2067C97fE54481a1E54d907abAfB6aD713D57b"
+    flow: "0xa620a02c4cc2d20d"
+  x:
+    - 0xAngusBro
