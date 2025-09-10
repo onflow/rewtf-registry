@@ -201,7 +201,7 @@
     evm: "0x0000000000000000000000024DfF20BeDFD6C48B"
     flow: "0xe327216d843357f1"
   x: 
-    - @flunks_nft
+    - flunks_nft
 -
   name: Angus
   github:
