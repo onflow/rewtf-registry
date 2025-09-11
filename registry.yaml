@@ -194,7 +194,7 @@
 -
   name: Flunks
   github:
-    - Skeremy
+    - flunkscommunity
   repos:
     - https://github.com/flunkscommunity/flunks-site
   wallets:
