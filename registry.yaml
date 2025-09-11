@@ -194,7 +194,7 @@
 -
   name: Flunks
   github:
-    - Skeremy
+    - flunkscommunity
   repos:
     - https://github.com/flunkscommunity/flunks-site
   wallets:
@@ -214,6 +214,7 @@
   x:
     - 0xAngusBro
 -
+
   name: Pandit
   github:
     - panditdhamdhere
@@ -224,3 +225,13 @@
     flow: "0x03b3bd382dee2ab7"
   x:
     - panditdhamdhere
+-
+  name: AechaEopteryX
+  github:
+    - juSt-jeLLy
+  repos:
+    - https://github.com/juSt-jeLLy/FlowBet
+  wallets:
+    evm: "0xE88ddC343052317480A204793426Be6319cfc700"
+    flow: "0x0a05302bacfd68b2"
+
