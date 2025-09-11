@@ -213,3 +213,15 @@
     flow: "0xa620a02c4cc2d20d"
   x:
     - 0xAngusBro
+
+    -
+  name: Pandit
+  github:
+    - panditdhamdhere
+  repos:
+    - https://github.com/panditdhamdhere/FlowSwap
+  wallets:
+    evm: "0x1E78b3F3550889e90EcE152ab6bbCb8d9E7Dd221"
+    flow: "0x03b3bd382dee2ab7"
+  x:
+    - panditdhamdhere
