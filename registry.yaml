@@ -214,6 +214,18 @@
   x:
     - 0xAngusBro
 -
+
+  name: Pandit
+  github:
+    - panditdhamdhere
+  repos:
+    - https://github.com/panditdhamdhere/FlowSwap
+  wallets:
+    evm: "0x1E78b3F3550889e90EcE152ab6bbCb8d9E7Dd221"
+    flow: "0x03b3bd382dee2ab7"
+  x:
+    - panditdhamdhere
+-
   name: AechaEopteryX
   github:
     - juSt-jeLLy
@@ -222,3 +234,4 @@
   wallets:
     evm: "0xE88ddC343052317480A204793426Be6319cfc700"
     flow: "0x0a05302bacfd68b2"
+
