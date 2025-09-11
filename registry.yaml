@@ -213,3 +213,12 @@
     flow: "0xa620a02c4cc2d20d"
   x:
     - 0xAngusBro
+-
+  name: AechaEopteryX
+  github:
+    - juSt-jeLLy
+  repos:
+    - https://github.com/juSt-jeLLy/FlowBet
+  wallets:
+    evm: "0xE88ddC343052317480A204793426Be6319cfc700"
+    flow: "0x0a05302bacfd68b2"
