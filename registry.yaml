@@ -234,4 +234,14 @@
   wallets:
     evm: "0xE88ddC343052317480A204793426Be6319cfc700"
     flow: "0x0a05302bacfd68b2"
-
+-
+  name: Kintagen
+  github:
+    - MartelAxe
+    - henrique1837
+  repos:
+    - https://github.com/KintaGen/kintagen-api
+    - https://github.com/KintaGen/kintagen
+  wallets:
+    evm: "0x895708Fe6Fb1309Dc9e76Dbf88968691E82862b8"
+    flow: "0x3c16354a3859c81b"
