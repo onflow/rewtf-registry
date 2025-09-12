@@ -245,3 +245,15 @@
   wallets:
     evm: "0x895708Fe6Fb1309Dc9e76Dbf88968691E82862b8"
     flow: "0x3c16354a3859c81b"
+-
+ name: Hariprasad
+  github:
+    - hprasadsakhare
+  repos:
+    - https://github.com/hprasadsakhare/ChargeShare-
+  wallets:
+    evm: "0x000000000000000000000002c8bC18086cb1a1B8"
+    flow: "0xc4bd9158b8bb0256"
+-
+
+
