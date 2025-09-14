@@ -266,7 +266,19 @@
     flow: "0x5c5de1f068a11816"                          
   x:
     - Pragyaxh3  
-
-
+-
+  name: PinPin
+  github:
+    # Your team members' GitHub usernames for tracking PR status to onflow
+    - NoahOverflow
+    - Claudio
+  repos:
+    # Your team's repositories - all commits to these repos will be tracked
+    - https://github.com/Chaos-Akademy/PinPin
+  wallets:
+    # Your team's wallets to accept Flow Rewards
+    evm: "0x000000000000000000000002E89C648A107391a3"
+    flow: "0xba539c654cfc3637"
+- 
 
   
