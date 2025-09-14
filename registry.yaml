@@ -261,7 +261,7 @@
   repos:
     -  https://github.com/Pragyaa3/Lumina
   wallets:
-    evm: "0x0000000000000000000000028ec88410a81DA56A"
+    evm: "0x164Ee3445d773A10528fcC1c5DDDCbd947B1da9e"
     flow: "0x5c5de1f068a11816"                          
   x:
     - Pragyaxh3  
