@@ -254,6 +254,18 @@
   wallets:
     evm: "0x000000000000000000000002c8bC18086cb1a1B8"
     flow: "0xc4bd9158b8bb0256"
+-
+  name: Drift
+  github:
+    - Pragyaa3
+  repos:
+    -  https://github.com/Pragyaa3/Lumina
+  wallets:
+    evm: "0x164Ee3445d773A10528fcC1c5DDDCbd947B1da9e"
+    flow: "0x5c5de1f068a11816"                          
+  x:
+    - Pragyaxh3  
+
 
 
   
