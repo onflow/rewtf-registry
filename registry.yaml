@@ -275,6 +275,19 @@
   wallets:
     evm: "0x0000000000000000000000021E03c5f3E1c6d1b2"
     flow: "0x711f9dfe2dbefc82"
-
+-
+  name: PinPin
+  github:
+    # Your team members' GitHub usernames for tracking PR status to onflow
+    - NoahOverflow
+    - Claudio
+  repos:
+    # Your team's repositories - all commits to these repos will be tracked
+    - https://github.com/Chaos-Akademy/PinPin
+  wallets:
+    # Your team's wallets to accept Flow Rewards
+    evm: "0x000000000000000000000002E89C648A107391a3"
+    flow: "0xba539c654cfc3637"
+- 
 
   
