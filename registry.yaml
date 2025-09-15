@@ -279,7 +279,6 @@
   name: PinPin
   github:
     # Your team members' GitHub usernames for tracking PR status to onflow
-    - NoahOverflow
     - Claudio
   repos:
     # Your team's repositories - all commits to these repos will be tracked
@@ -288,6 +287,16 @@
     # Your team's wallets to accept Flow Rewards
     evm: "0x000000000000000000000002E89C648A107391a3"
     flow: "0xba539c654cfc3637"
-- 
+-
+  name: FlowSwap Team
+  github:
+    - enliven17
+  repos:
+    - https://github.com/enliven17/flowswap
+  wallets:
+    evm: "0x000000000000000000000002765b8119A01C2aE4"
+    flow: "0x5313e3163ad0f4a1"
+  x:
+    - 17cankat
 
   
