@@ -151,13 +151,14 @@
   name: JetrPay
   github:
     - ayomisco
+    - Timi16
   repos:
     - https://github.com/Ayomisco/jetrpay
   wallets:
     evm: "0x00000000000000000000000277E9f18E5912f4cA"
     flow: "0xdc7abe65491f10be"
   x:
-    - ayomisco_s 
+    - ayomisco_s
 -
   name: Curio Storage
   github:
