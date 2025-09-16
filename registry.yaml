@@ -1,5 +1,5 @@
 # ------ Start - Template -----
-# Copy the following structure as your registration information!
+# Copy the following structure as your registration information!!
 -
   name: Team Name(Displayed in Leaderboard)
   github:
@@ -124,6 +124,7 @@
     - ccarnicle
   repos:
     - https://github.com/ccarnicle/cascade_scaffold
+    - https://github.com/ccarnicle/flowActionsTesting
   wallets:
     evm: "0x000000000000000000000002f198406d0594C15B"
     flow: "0x9db94c9564243ba7"
@@ -145,8 +146,6 @@
   wallets:
     evm: "0x0000000000000000000000020d67a3C4174e27A3"
     flow: "0xaec929f96ea89ae4"
--
-
 -
   name: JetrPay
   github:
@@ -194,3 +193,111 @@
     evm: "0xD8aE2aCF05660db350A56d5721f46a73ED64f657"
   x:
     - theprimefibber
+-
+  name: Flunks
+  github:
+    - flunkscommunity
+  repos:
+    - https://github.com/flunkscommunity/flunks-site
+  wallets:
+    evm: "0x0000000000000000000000024DfF20BeDFD6C48B"
+    flow: "0xe327216d843357f1"
+  x: 
+    - flunks_nft
+-
+  name: Angus
+  github:
+    - agyn-ub
+  repos:
+    - https://github.com/agyn-ub/ai_voice_calendar
+  wallets:
+    evm: "0x7E2067C97fE54481a1E54d907abAfB6aD713D57b"
+    flow: "0xa620a02c4cc2d20d"
+  x:
+    - 0xAngusBro
+-
+
+  name: Pandit
+  github:
+    - panditdhamdhere
+  repos:
+    - https://github.com/panditdhamdhere/FlowSwap
+  wallets:
+    evm: "0x1E78b3F3550889e90EcE152ab6bbCb8d9E7Dd221"
+    flow: "0x03b3bd382dee2ab7"
+  x:
+    - panditdhamdhere
+-
+  name: AechaEopteryX
+  github:
+    - juSt-jeLLy
+  repos:
+    - https://github.com/juSt-jeLLy/FlowBet
+  wallets:
+    evm: "0xE88ddC343052317480A204793426Be6319cfc700"
+    flow: "0x0a05302bacfd68b2"
+-
+  name: Kintagen
+  github:
+    - MartelAxe
+    - henrique1837
+  repos:
+    - https://github.com/KintaGen/kintagen-api
+    - https://github.com/KintaGen/kintagen
+  wallets:
+    evm: "0x895708Fe6Fb1309Dc9e76Dbf88968691E82862b8"
+    flow: "0x4768dd49d386dd15"
+-
+  name: Hariprasad
+  github:
+    - hprasadsakhare
+  repos:
+    - https://github.com/hprasadsakhare/ChargeShare
+  wallets:
+    evm: "0x000000000000000000000002c8bC18086cb1a1B8"
+    flow: "0xc4bd9158b8bb0256"
+-
+  name: Drift
+  github:
+    - Pragyaa3
+  repos:
+    -  https://github.com/Pragyaa3/Lumina
+  wallets:
+    evm: "0x164Ee3445d773A10528fcC1c5DDDCbd947B1da9e"
+    flow: "0x5c5de1f068a11816"                          
+  x:
+    - Pragyaxh3  
+-
+  name: roma marshall x flow
+  github:
+    - roma-marshall
+  repos:
+    - https://github.com/roma-marshall/primedice
+  wallets:
+    evm: "0x0000000000000000000000021E03c5f3E1c6d1b2"
+    flow: "0x711f9dfe2dbefc82"
+-
+  name: PinPin
+  github:
+    # Your team members' GitHub usernames for tracking PR status to onflow
+    - NoahOverflow
+    - Claudio
+  repos:
+    # Your team's repositories - all commits to these repos will be tracked
+    - https://github.com/Chaos-Akademy/PinPin
+  wallets:
+    # Your team's wallets to accept Flow Rewards
+    evm: "0x000000000000000000000002E89C648A107391a3"
+    flow: "0xba539c654cfc3637"
+- 
+  name: FlowSwap
+  github:
+    - enliven17
+  repos:
+    - https://github.com/enliven17/flowswap
+  wallets:
+    evm: "0x000000000000000000000002765b8119A01C2aE4"
+    flow: "0x5313e3163ad0f4a1"
+  x:
+    - 17cankat
+  
