@@ -289,8 +289,7 @@
     evm: "0x000000000000000000000002E89C648A107391a3"
     flow: "0xba539c654cfc3637"
 - 
-
-  name: FlowSwap Team
+  name: FlowSwap
   github:
     - enliven17
   repos:
