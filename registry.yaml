@@ -300,3 +300,14 @@
   x:
     - 17cankat
   
+-
+  name: Nova
+  github:
+    - pranavkonde
+  repos:
+    - https://github.com/pranavkonde/FlowVerse.git
+  wallets:
+    evm: "0x3c610addb99b979ed816ff25b004e6ed793b4532"
+    flow: "0x48851cff28a19184"
+  x:
+    - pranav_konde
