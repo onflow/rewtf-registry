@@ -300,6 +300,17 @@
     flow: "0x5313e3163ad0f4a1"
   x:
     - 17cankat
+
+  name: Prognos
+  github:
+    - Timi16
+  repos:
+    - https://github.com/Timi16/Prognos
+  wallets:
+    evm: 0x000000000000000000000002206f95Af1352D46C
+    flow: 0x0fa0eeb9864e32cc
+  x:
+    - Timicoding
   
 -
   name: Nova
