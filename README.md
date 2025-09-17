@@ -10,6 +10,13 @@ Great projects are 1% idea and 99% execution, the hardest part is usually just g
 
 It's time to go WTF (with the Flow) again!
 
+## 🤝 Bonus Rewards!
+
+There are two ways to get significant reward boosts apart from regular development:
+1. Implementing in your app the latest Forte features ([actions](https://developers.flow.com/blockchain-development-tutorials/flow-actions) and [scheduled transactions](https://developers.flow.com/blockchain-development-tutorials/flow-actions/scheduled-callbacks-introduction)).
+2. Building in Public. The top building in public posts will earn more points as well as bonus $FLOW. In your building in public posts, include #ReWTF and @flow_blockchain as well as @aliserag0.
+
+
 ## Leaderboard
 
 To see how you rank relative to others and your total points, check out the [leaderboard](https://app.databox.com/datawall/fc5f1f7de13471eac8bd5eb2e3d90a752817ac68a86fd6). 
@@ -68,6 +75,7 @@ The registration system will automatically validate:
 
 After successful registration, we will continuously monitor and scan your GitHub activity data to calculate user points.
 
+
 ## 🏆 Scoring System
 
 ### How Points Are Calculated
@@ -79,10 +87,6 @@ After successful registration, we will continuously monitor and scan your GitHub
 
 - [Flow Documentation](https://developers.flow.com/)
 - [Cadence Language Reference](https://cadence-lang.org/)
-
-## 🤝 Building in Public
-
-The top building in public posts will earn more points as well as bonus $FLOW. In your building in public posts, include #ReWTF and @flow_blockchain as well as @aliserag0.
 
 ## FAQ
 - Can I use existing projects or do they need to be brand new? Both new and existing projects are eligible!
