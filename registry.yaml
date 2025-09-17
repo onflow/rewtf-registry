@@ -305,7 +305,6 @@
     flow: "0x5313e3163ad0f4a1"
   x:
     - 17cankat
-    
 -
   name: Prognos
   github:
@@ -317,7 +316,6 @@
     flow:" 0x0fa0eeb9864e32cc"
   x:
     - Timicoding
-  
 -
   name: Nova
   github:
