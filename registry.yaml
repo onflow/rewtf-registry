@@ -275,6 +275,8 @@
   wallets:
     evm: "0x0000000000000000000000021E03c5f3E1c6d1b2"
     flow: "0x711f9dfe2dbefc82"
+  x:
+    - roma_marshall_
 -
   name: PinPin
   github:
