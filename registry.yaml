@@ -128,6 +128,7 @@
   repos:
     - https://github.com/ccarnicle/cascade_scaffold
     - https://github.com/ccarnicle/flowActionsTesting
+    - https://github.com/ccarnicle/defiAgentProtocol
   wallets:
     evm: "0x000000000000000000000002f198406d0594C15B"
     flow: "0x9db94c9564243ba7"
@@ -313,7 +314,7 @@
     - https://github.com/Timi16/Prognos
   wallets:
     evm: "0x000000000000000000000002206f95Af1352D46C"
-    flow:" 0x0fa0eeb9864e32cc"
+    flow: "0x0fa0eeb9864e32cc"
   x:
     - Timicoding
 -
