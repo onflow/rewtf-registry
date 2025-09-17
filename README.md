@@ -13,7 +13,7 @@ It's time to go WTF (with the Flow) again!
 ## 🤝 Bonus Rewards!
 
 There are two ways to get significant reward boosts apart from regular development:
-1. Implementing in your app the latest Forte features ([actions](https://developers.flow.com/blockchain-development-tutorials/flow-actions) and [scheduled transactions](https://developers.flow.com/blockchain-development-tutorials/flow-actions/scheduled-callbacks-introduction)).
+1. Implementing in your app the latest [Forte](https://flow.com/post/forte-introducing-actions-agents-supercharging-composability-and-automation) features ([actions](https://developers.flow.com/blockchain-development-tutorials/flow-actions) and [scheduled transactions](https://developers.flow.com/blockchain-development-tutorials/flow-actions/scheduled-callbacks-introduction)).
 2. Building in Public. The top building in public posts will earn more points as well as bonus $FLOW. In your building in public posts, include #ReWTF and @flow_blockchain as well as @aliserag0.
 
 
