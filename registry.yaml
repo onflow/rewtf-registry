@@ -349,8 +349,7 @@
   wallets:
     evm: "0xD64020553d18F3468A6800FAC1a0116E46BE6905"
     flow: "0x3b53317a548a4015"
-
- -
+-
    name: Micro Crop
    github: 
     - Antismart
