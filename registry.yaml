@@ -328,3 +328,14 @@
     flow: "0x48851cff28a19184"
   x:
     - pranav_konde
+-
+  name: Codeing Lotus
+  github:
+    - pranavkumar-dev
+  repos:
+    - https://github.com/pranavkumar-dev/Micro-saving-circle.git
+  wallets:
+    evm: "0x000000000000000000000002E9214cb0D0c9cCff"
+    flow: "0x52cf9b3a77ad5764"
+   x:
+    - Pranavkumar6328 
