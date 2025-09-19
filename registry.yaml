@@ -339,8 +339,7 @@
     flow: "0x52cf9b3a77ad5764"
   x:
     - Pranavkumar6328 
-
-
+ -
   name: Aura
   github:
     - luisawatkins
@@ -349,3 +348,27 @@
   wallets:
     evm: "0xD64020553d18F3468A6800FAC1a0116E46BE6905"
     flow: "0x3b53317a548a4015"
+
+ -
+   name: Micro Crop
+   github: 
+    - Antismart
+   repos: 
+     - https://github.com/Antismart/microcrop-contracts
+   wallets:
+     evm: "0xC63ABe092aeaB15102c3d6A4879A8BF77a21f8A8"
+     flow: "0x4fc91aa7a163d38b"
+   x: 
+     - micro_crop
+-
+  name: Flowppies
+  github:
+    - anushkasomani
+    - VikashMundari326
+  repos:
+    - https://github.com/anushkasomani/flowppies
+  wallets: 
+    evm: "0x000000000000000000000002Ee39171AB23E2716"
+    flow: "0xa9a5c79434197e3c"
+  x: 
+    - ishbubbles1
