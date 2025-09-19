@@ -322,7 +322,7 @@
   github:
     - pranavkonde
   repos:
-    - https://github.com/pranavkonde/FlowVerse.git
+    - https://github.com/pranavkonde/FlowVerse
   wallets:
     evm: "0x3c610addb99b979ed816ff25b004e6ed793b4532"
     flow: "0x48851cff28a19184"
@@ -333,7 +333,7 @@
   github:
     - pranavkumar-dev
   repos:
-    - https://github.com/pranavkumar-dev/Micro-saving-circle.git
+    - https://github.com/pranavkumar-dev/Micro-saving-circle
   wallets:
     evm: "0x000000000000000000000002E9214cb0D0c9cCff"
     flow: "0x52cf9b3a77ad5764"
