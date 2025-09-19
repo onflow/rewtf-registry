@@ -350,3 +350,15 @@
      flow: "0x4fc91aa7a163d38b"
    x: 
      - micro_crop
+-
+  name: Flowppies
+  github:
+    - anushkasomani
+    - VikashMundari326
+  repos:
+    - https://github.com/anushkasomani/flowppies
+  wallets: 
+    evm: "0x000000000000000000000002Ee39171AB23E2716"
+    flow: "0xa9a5c79434197e3c"
+  x: 
+    - ishbubbles1
