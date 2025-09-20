@@ -372,3 +372,30 @@
     flow: "0xa9a5c79434197e3c"
   x: 
     - ishbubbles1
+-  
+  name: Fortefication
+  github:
+    - enliven17
+  repos:
+    - https://github.com/enliven17/fortefication
+  wallets:
+    evm: "0x000000000000000000000002765b8119A01C2aE4"
+    flow: "0x5313e3163ad0f4a1"
+  x:
+    - 17cankat
+-  
+  name: Floowscription
+  github:
+    - enliven17
+  repos:
+    - https://github.com/enliven17/floowscription
+  wallets:
+    evm: "0x000000000000000000000002765b8119A01C2aE4"
+    flow: "0x5313e3163ad0f4a1"
+  x:
+    - 17cankat
+-
+  
+  
+    
+    
