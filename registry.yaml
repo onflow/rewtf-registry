@@ -372,3 +372,22 @@
     flow: "0xa9a5c79434197e3c"
   x: 
     - ishbubbles1
+
+-
+  name: ChronoBond
+  github:
+    - azizrosyid
+    - handiism
+    - danyawn
+    - rfqma
+    - riobintang
+  repos:
+    - https://github.com/ChronoBond/chronobond_frontend
+    - https://github.com/ChronoBond/chronobond_cadence
+    - https://github.com/ChronoBond/overview
+  wallets: 
+    evm: "0x00000000000000000000000230Ec85755121DF15"
+    flow: "0xaefa527ea17ce80a"
+  x: 
+    - chronobond
+
