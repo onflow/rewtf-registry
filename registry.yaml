@@ -372,3 +372,12 @@
     flow: "0xa9a5c79434197e3c"
   x: 
     - ishbubbles1
+-
+  name: "Mighty Cats"
+  github:
+    - "devalexmunoz"
+  repos:
+    - "https://github.com/devalexmunoz/mightycats"
+  wallets:
+    evm: "0x00000000000000000000000276b73E9c8a508C23"
+    flow: "0x8bb760cedaf845d8"
