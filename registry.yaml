@@ -372,3 +372,14 @@
     flow: "0xa9a5c79434197e3c"
   x: 
     - ishbubbles1
+-
+name: Flow-dev-starter
+  github:
+    - Izi-27
+    - SKAHLO1
+  repos:
+    - https://github.com/Izi-27/Flow-dev-starter
+  wallets:
+    evm: "0x774A693E52e6882b10f739bB7b84b3F4438ADb4B"
+    flow: "0x9701b128fd2017f8"
+    x: Adam_shelbie
