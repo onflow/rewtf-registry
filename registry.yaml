@@ -372,3 +372,17 @@
     flow: "0xa9a5c79434197e3c"
   x: 
     - ishbubbles1
+-
+  name: wayBigger
+  github:
+    
+    - bhavishya2003yadav
+    - chhaviluthra08
+  repos:
+    - https://github.com/wayBiggger/way-bigger
+  wallets: 
+    evm: "0x0000000000000000000000024d7ECaD7e6Ce17F3"
+    flow: "0x89ccac35727f2651"
+  x: 
+    - wayBiggerr
+-
