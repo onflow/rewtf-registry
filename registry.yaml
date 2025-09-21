@@ -372,6 +372,7 @@
     flow: "0xa9a5c79434197e3c"
   x: 
     - ishbubbles1
+
 -
   name: "Mighty Cats"
   github:
@@ -381,3 +382,56 @@
   wallets:
     evm: "0x00000000000000000000000276b73E9c8a508C23"
     flow: "0x8bb760cedaf845d8"
+
+-  
+  name: Fortefication
+  github:
+    - enliven17
+  repos:
+    - https://github.com/enliven17/fortefication
+  wallets:
+    evm: "0x000000000000000000000002765b8119A01C2aE4"
+    flow: "0x5313e3163ad0f4a1"
+  x:
+    - 17cankat
+-  
+  name: Floowscription
+  github:
+    - enliven17
+  repos:
+    - https://github.com/enliven17/floowscription
+  wallets:
+    evm: "0x000000000000000000000002765b8119A01C2aE4"
+    flow: "0x5313e3163ad0f4a1"
+  x:
+    - 17cankat
+
+-
+ name: Galerie
+  github:
+    - KyllianGenot
+    - edenbd1
+  repos:
+    - https://github.com/galerie-fi/galerie-frontend
+    - https://github.com/galerie-fi/galerie-smart-contracts
+  wallets:
+    evm: "0x00000000000000000000000215dB3fa5b4B738D8"
+    flow: "0xb6111c9812bcced8"
+
+-
+  name: ChronoBond
+  github:
+    - azizrosyid
+    - handiism
+    - danyawn
+    - rfqma
+    - riobintang
+  repos:
+    - https://github.com/ChronoBond/chronobond_frontend
+    - https://github.com/ChronoBond/chronobond_cadence
+    - https://github.com/ChronoBond/overview
+  wallets: 
+    evm: "0x00000000000000000000000230Ec85755121DF15"
+    flow: "0xaefa527ea17ce80a"
+  x: 
+    - chronobond
