@@ -372,3 +372,12 @@
     flow: "0xa9a5c79434197e3c"
   x: 
     - ishbubbles1
+-
+  name: Veyra
+  github:
+    - LalithHu
+  repos:
+    - https://github.com/LalithHu/Veyra_options
+  wallets:
+    evm: "0x00000000000000000000000207F939d24790F7B6"
+    flow: "0x0110ea2421997c9b"
