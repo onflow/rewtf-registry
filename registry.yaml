@@ -374,6 +374,18 @@
     - ishbubbles1
 
 -
+ name: Galerie
+  github:
+    - KyllianGenot
+    - edenbd1
+  repos:
+    - https://github.com/galerie-fi/galerie-frontend
+    - https://github.com/galerie-fi/galerie-smart-contracts
+  wallets:
+    evm: "0x00000000000000000000000215dB3fa5b4B738D8"
+    flow: "0xb6111c9812bcced8"
+
+-
   name: ChronoBond
   github:
     - azizrosyid
@@ -390,4 +402,3 @@
     flow: "0xaefa527ea17ce80a"
   x: 
     - chronobond
-
