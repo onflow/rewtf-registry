@@ -470,3 +470,20 @@
     flow: "0xaefa527ea17ce80a"
   x: 
     - chronobond
+
+-
+  name: TradingFlow
+  github:
+    - TheCleopatra
+    - M721ao
+    - Morboz
+    - robin-fc
+  repos:
+    - https://github.com/TradingFlow-OpenSource/tradingflow-contracts
+    - https://github.com/TradingFlow-OpenSource/tradingflow-docs
+    - https://github.com/TradingFlow-OpenSource/tradingflow-linter
+  wallets: 
+    evm: "0x000000000000000000000002273e92651F5450C1"
+    flow: "0xf3c595f641f696e1"
+  x: 
+    - TradingFlowAI
