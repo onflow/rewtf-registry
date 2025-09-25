@@ -1,11 +1,10 @@
 # ------ Start - Template -----
 # Copy the following structure as your registration information!!
 -
-  name: Team Name(Displayed in Leaderboard)
+  name: Legaltrack
   github:
     # Your team members' Github usernames, for tracking your PR status to onflow
-    - username1
-    - username2
+    - kartikbansal4976
   repos:
     # Your repositories, all commits to these repos will be tracked. Only repos that meet
     # either of the two following requirements can be included and accepted:
@@ -13,13 +12,13 @@
     #    if there are any contracts, list the contract addresses deployed on Flow.
     # 2. With Flow components: Cadence Language, or with `@onflow/fcl` or `@onflow/kit`(in package.json), or using
     #    go sdk(url in go.mod), or with Flow public EVM endpoints set(in Solidity configure files).
-    - https://github.com/your/repo_1
-    - https://github.com/your/repo_2
+    - https://github.com/KartikBansal4976/flow_legal_track
+    - https://github.com/KartikBansal4976/legaltrack4
   wallets: # Optional, Your wallets to accept Flow Rewards
-    evm: "0x0000000000000000000000000000000000000000"
-    flow: "0x0000000000000001"
+    evm: "0x3d6E4a6316d007daf5931942dff8D5934Da1e8cE"
+    flow: ""
   x: # Optional, Your team's social handles
-    - your_x_handle
+    - @kartik_1218
 # ------ End - Template -----
 # >>>>>>> Developers' registry <<<<<<<<
 -
