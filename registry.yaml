@@ -248,6 +248,7 @@
   repos:
     - https://github.com/KintaGen/kintagen-api
     - https://github.com/KintaGen/kintagen
+    - https://github.com/KintaGen/kintagen-r-api 
   wallets:
     evm: "0x895708Fe6Fb1309Dc9e76Dbf88968691E82862b8"
     flow: "0x4768dd49d386dd15"
