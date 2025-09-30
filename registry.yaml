@@ -470,7 +470,16 @@
     flow: "0xaefa527ea17ce80a"
   x: 
     - chronobond
-
+-
+  name: Densofi
+  github:
+    - apeoverflow
+    - chimera-defi
+  repos:
+    - https://github.com/apeoverflow/densofi
+  wallets:
+    evm: "0x9b8A91c271B230e8647F01cA9d31e28b79f6d6AA"
+    flow: "0xff0e24054f6e823e"
 -
   name: TradingFlow
   github:
