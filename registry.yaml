@@ -496,3 +496,15 @@
     flow: "0xf3c595f641f696e1"
   x: 
     - TradingFlowAI
+-
+  name: Legaltrack
+  github:
+    - kartikbansal4976
+  repos:
+    - https://github.com/KartikBansal4976/flow_legal_track
+    - https://github.com/KartikBansal4976/legaltrack4
+  wallets: 
+    evm: "0x3d6E4a6316d007daf5931942dff8D5934Da1e8cE"
+    flow: "0x0000000000000001"
+  x:
+    - @kartik_1218
